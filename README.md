@@ -11,7 +11,7 @@ Used
 
 4)Scikit-learn
 
-How to Run
+How to Run:
 python churn_prediction.py
 
 
