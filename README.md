@@ -10,7 +10,7 @@ Tech Stack
 
 2)Pandas
 
-3) NumPy
+3)NumPy
 
 4)Scikit-learn
 
